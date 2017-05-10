@@ -1,0 +1,35 @@
+@import "_reset.scss";
+@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed');
+$white: #e8edf3;
+$primary: #98dafc;
+$secondary:#daad86;
+$tertiary: #312c32;
+$font-stack: 'Roboto Condensed',
+sans-serif;
+body {
+    background-color: $white;
+    color: $tertiary;
+}
+
+header {
+    a #footer {
+        font-family: $font-stack;
+        color: $secondary;
+    }
+}
+
+
+
+.submitBtn {
+    background-color: $secondary;
+    color: $tertiary;
+}
+
+#footer {
+	margin: auto;
+	align-content: center;
+	background-color:$primary;
+	color: $tertiary;
+	font-family: $font-stack;
+	font-size: 0.7em;
+}

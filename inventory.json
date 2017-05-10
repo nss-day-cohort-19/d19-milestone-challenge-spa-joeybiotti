@@ -1,0 +1,41 @@
+{
+    "cars": [{
+            "make": "Toyota",
+            "model": "Prius",
+            "year": "2012",
+            "price": "13000",
+            "description": "Show everyone how much you care."
+        }, {
+            "make": "Ford",
+            "model": "F150",
+            "year": "1992",
+            "price": "1000",
+            "description": "Show everyone how little you care."
+        }, {
+            "make": "Ford",
+            "model": "Mustang",
+            "year": "1995",
+            "price": "10,000",
+            "description": "Drive the car that was cool for a second in the 90's."
+        }, {
+            "make": "DeLoren",
+            "model": "DMC-12",
+            "year": "1985",
+            "price": "Priceless",
+            "description": "Doesn't require roads. Runs on trash. OUTATIME vanity plate included"
+        }, {
+            "make": "AMC",
+            "model": "Gremlin",
+            "year": "1975",
+            "price": "$100",
+            "description": "Don't get rear ended or you will die."
+        }, {
+            "make": "Volkswagen",
+            "model": "Thing",
+            "year": "1980",
+            "price": "$25,000",
+            "description": "What exactly <i>is</i> the VW Thing? A badass vehicle, that's what."
+        }
+
+    ]
+}
